@@ -72,4 +72,4 @@ private:
 </p>
 <br>
 
-![stfn_ko's Activity Graph](https://activity-graph.herokuapp.com/graph?username=stfn-ko&custom_title=Stephan's%20Contribution%20Graph&theme=radical&bg_color=141321&hide_border=true&line=dcc042&point=dcc042)
+![stfn_ko's Activity Graph](https://activity-graph.herokuapp.com/graph?username=stfn-ko&custom_title=Stephan's%20Contribution%20Graph&theme=radical&bg_color=141321&hide_border=true&line=fd428d&point=dcc042)
