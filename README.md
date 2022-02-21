@@ -1,13 +1,75 @@
-# Hey there, I/m Stephan ✌️ #
+<h1 align="center">
+ <b>stfn_ko</b>
+</h1>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=stfn-ko&count_private=true&show_icons=true&theme=github-dark"/>
+<p align="center">
+Hello there, my name is Stephan. I am somewhat of a programmer myself, I am passionate about  <code>AI</code>, <code>Robotics</code>, <code>Prosthetics</code>, <code>Web 3.0</code>
+<p align="center">
+When I am not contributing to the github I usually travel or just forget about my github account (i travel quite a lot). 
+<p align="center">
+Please, make yourself at home. 
+</ p>
 
-<img align="left" width="40.7%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stfn-ko&theme=github-dark&layout=compact&langs_count=6&hide=javascript,html"/>
+<br>
+<br>
+<br>
 
-<br />
+<div>
+  <div align="center">
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=00599C&labelColor=282828">
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=00ADD8&labelColor=282828">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E&labelColor=282828">
+      <img src="https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python&logoColor=yellow&labelColor=282828">
+  </div>
+  <div align="center">
+     <img src="https://img.shields.io/badge/-MongoDb-4EA94B?style=for-the-badge&logo=MongoDb&logoColor=4EA94B&labelColor=282828">  
+     <img src="https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=MySQL&logoColor=white&labelColor=282828">  
+  </div>
+  <div align="center">
+      <img src="https://img.shields.io/badge/-HTML-red?style=for-the-badge&logo=html5&logoColor=red&labelColor=282828">
+      <img src="https://img.shields.io/badge/-CSS-0175C2?style=for-the-badge&logo=css3&logoColor=0175C2&labelColor=282828">
+  </div>
+</div>
 
-## My stack: ##
+<br>
+<br>
 
 
+```c++
+class stfn_ko
+{
+public:
+    stfn_ko() {
+        name = "Stephan Kolontay";
+        username = "stfn_ko";
+        location = "Worldwide";
+        instagram = "@stfn_ko";
+        web = nullptr;
+    };
+    
+    virtual ~stfn_ko() = 0;
+
+private:
+    std::string name, username, location, instagram, web;
+};
+```
+
+<div align="center">
+  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
+    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
+  </a>
+</div>
 
 
+## My Statistics
+
+<br/>
+<p align="left">
+  <a href="https://abhigyantrips.dev/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=stfn-ko&show_icons=true&theme=radical&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=stfn-ko&theme=radical&hide_border=true" />
+  </a>
+</p>
+<br>
+
+![stfn_ko's Activity Graph](https://activity-graph.herokuapp.com/graph?username=stfn-ko&custom_title=Stephan's%20Contribution%20Graph&theme=radical&bg_color=141321&hide_border=true&line=dcc042&point=dcc042)
