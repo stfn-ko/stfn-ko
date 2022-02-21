@@ -1,16 +1,16 @@
 <h1 align="center">
- <b>im stfn_ko!</b>
+ stfn_ko
 </h1>
 
-<p align="center">
-Hello there, my name is Stephan. I am somewhat of a programmer myself, I am passionate about  <code>AI</code>, <code>Robotics</code>, <code>Prosthetics</code>, <code>Web 3.0</code>
-</ p>
-<p align="center">
-When I am not contributing to the github I usually travel or just forget about my github account (i travel quite a lot). 
-</p>
-<p align="center">
-Please, make yourself at home. 
-</ p>
+```c++
+cout<< "Hello there, my name is Stephan. I am somewhat of a programmer myself, 
+I am passionate about AI, Robotics, Prosthetics, Web 3.0\n
+
+When I am not contributing to the github I usually travel or just 
+forget about my github account (i travel quite a lot)\n
+
+Please, make yourself at home";
+```
 
 <br>
 <br>
@@ -52,7 +52,7 @@ public:
     virtual ~stfn_ko() = 0;
 
 private:
-    std::string name, username, location, instagram, web;
+    string name, username, location, instagram, web;
 };
 ```
 
