@@ -1,7 +1,3 @@
-<p align="center">
-     <img src="https://media2.giphy.com/media/QsDSahLlRvMR8ePuIk/giphy.gif?cid=ecf05e473gdrjh92ikfdgm2hfd6c1ohonj44ncb9916fu9z4&rid=giphy.gif&ct=s" width="200px"> 
-</ p>
- 
 <h1 align="center">
  <b>im stfn_ko!</b>
 </h1>
