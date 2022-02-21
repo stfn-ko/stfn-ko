@@ -1,6 +1,6 @@
-<div align="center">
-<img src="https://media2.giphy.com/media/QsDSahLlRvMR8ePuIk/giphy.gif?cid=ecf05e473gdrjh92ikfdgm2hfd6c1ohonj44ncb9916fu9z4&rid=giphy.gif&ct=s" width="200px"> 
-</ div>
+<p align="center">
+     <img src="https://media2.giphy.com/media/QsDSahLlRvMR8ePuIk/giphy.gif?cid=ecf05e473gdrjh92ikfdgm2hfd6c1ohonj44ncb9916fu9z4&rid=giphy.gif&ct=s" width="200px"> 
+</ p>
  
 <h1 align="center">
  <b>im stfn_ko!</b>
@@ -8,8 +8,10 @@
 
 <p align="center">
 Hello there, my name is Stephan. I am somewhat of a programmer myself, I am passionate about  <code>AI</code>, <code>Robotics</code>, <code>Prosthetics</code>, <code>Web 3.0</code>
+</ p>
 <p align="center">
 When I am not contributing to the github I usually travel or just forget about my github account (i travel quite a lot). 
+</p>
 <p align="center">
 Please, make yourself at home. 
 </ p>
