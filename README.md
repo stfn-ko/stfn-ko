@@ -1,5 +1,9 @@
+<div align="center">
+<img src="https://media2.giphy.com/media/QsDSahLlRvMR8ePuIk/giphy.gif?cid=ecf05e473gdrjh92ikfdgm2hfd6c1ohonj44ncb9916fu9z4&rid=giphy.gif&ct=s" width="200px"> 
+</ div>
+ 
 <h1 align="center">
- <b>stfn_ko</b>
+ <b>im stfn_ko!</b>
 </h1>
 
 <p align="center">
@@ -54,19 +58,24 @@ private:
 };
 ```
 
-<div align="center">
-  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
-  </a>
-</div>
+<br>
+<br>
+<br>
 
+
+<p align="center">
+    <img src="https://spotify-github-readme.vercel.app/api/spotify" />
+</p>
+
+<br>
+<br>
 
 ## My Statistics
 
 <br/>
 <p align="left">
-  <a href="https://abhigyantrips.dev/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=stfn-ko&show_icons=true&theme=radical&hide_border=true" />
+  <a>
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=stfn-ko&show_icons=true&theme=radical&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=stfn-ko&theme=radical&hide_border=true" />
   </a>
 </p>
