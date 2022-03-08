@@ -61,7 +61,8 @@ private:
 <br>
 
 
-<h1 align="center">Last jammed out to:</h1>
+<h2 align="left">Last jammed out to:</h2>
+<br/>
 <p align="center">
     <img src="https://spotify-github-readme.vercel.app/api/spotify" />
 </p>
