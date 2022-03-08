@@ -3,13 +3,13 @@
 </h1>
 
 ```c++
-cout<< "Hello there, my name is Stephan. I am somewhat of a programmer myself, 
-I am passionate about AI, Robotics, Prosthetics, Web 3.0\n
+std::cout << "Hello there, my name is Stephan. I am somewhat of a programmer myself,\n 
+I am passionate about AI, Robotics, Prosthetics, Web 3.0\n\n
 
-When I am not contributing to the github I usually travel or just 
-forget about my github account (i travel quite a lot)\n
+When I am not contributing to the github I usually travel or just\n 
+forget about my github account (i travel quite a lot)\n\n
 
-Please, make yourself at home";
+Please, make yourself at home;)";
 ```
 
 <br>
@@ -52,7 +52,7 @@ public:
     virtual ~stfn_ko() = 0;
 
 private:
-    string name, username, location, instagram, web;
+    std::string name, username, location, instagram, web;
 };
 ```
 
@@ -60,7 +60,7 @@ private:
 <br>
 <br>
 
-
+<h1 align="center">Last jammed out to:</h1>
 <p align="center">
     <img src="https://spotify-github-readme.vercel.app/api/spotify" />
 </p>
