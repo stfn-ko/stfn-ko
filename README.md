@@ -19,7 +19,7 @@ Please, make yourself at home;)";
 <div>
   <div align="center">
       <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=00599C&labelColor=282828">
-      <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white">
+      <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white&labelColor=282828">
       <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=00ADD8&labelColor=282828">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E&labelColor=282828">
       <img src="https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python&logoColor=yellow&labelColor=282828">
