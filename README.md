@@ -3,13 +3,40 @@
 </h1>
 
 ```c++
-std::cout << "Hello there, my name is Stephan. I am somewhat of a programmer myself,\n 
-I am passionate about AI, Robotics, Prosthetics, Web 3.0\n\n
+#include <iostream>
+#include <string>
 
-When I am not contributing to the github I usually travel or just\n 
-forget about my github account (i travel quite a lot)\n\n
+class stfn_ko
+{
+public:
+    stfn_ko() {
+        name = "Stephan Kolontay";
+        username = "stfn_ko";
+        location = "Worldwide";
+        email = "stepan.kolontaj@gmail.com"
+    };
+    
+    virtual ~stfn_ko() = 0;
+    
+    void print_bio();
 
-Please, make yourself at home;)";
+private:
+    std::string name, username, location, email;
+};
+
+void print_bio() {
+    std::cout << "My name is Stephan, and I'm a programmer with a passion for both C++ and Rust.\n";
+    std::cout << "I'm fascinated by AI, robotics, prosthetics, and web 3.0.\n";
+}
+```
+
+```rust
+fn main() {
+    println!("Welcome to my world!");
+    println!("When I'm not coding, I'm often traveling and exploring new places.");
+    println!("Please feel free to check out my Github repository to see what I'm working on");
+    println!("And don't hesitate to get in touch if you have any questions or just want to chat!");
+}
 ```
 
 <br>
@@ -36,31 +63,6 @@ Please, make yourself at home;)";
 
 <br>
 <br>
-
-
-```c++
-class stfn_ko
-{
-public:
-    stfn_ko() {
-        name = "Stephan Kolontay";
-        username = "stfn_ko";
-        location = "Worldwide";
-        instagram = "@stfn_ko";
-        web = nullptr;
-    };
-    
-    virtual ~stfn_ko() = 0;
-
-private:
-    std::string name, username, location, instagram, web;
-};
-```
-
-<br>
-<br>
-<br>
-
 
 <h2 align="left">Last jammed out to:</h2>
 <br/>
