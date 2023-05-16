@@ -6,8 +6,9 @@
 #include <iostream>
 #include <string>
 
-class stfn_ko
-{
+class stfn_ko {
+std::string name, username, location, email;
+
 public:
     stfn_ko() {
         name = "Stephan Kolontay";
@@ -17,22 +18,14 @@ public:
     };
     
     virtual ~stfn_ko() = 0;
-    
-    void print_bio();
-
-private:
-    std::string name, username, location, email;
 };
-
-void print_bio() {
-    std::cout << "My name is Stephan, and I'm a programmer with a passion for both C++ and Rust.\n";
-    std::cout << "I'm fascinated by AI, robotics, prosthetics, and web 3.0.\n";
-}
 ```
 
 ```rust
 fn main() {
     println!("Welcome to my world!");
+    println!("My name is Stephan, and I'm a programmer with a passion for both C++ and Rust.\n");
+    println!("I'm fascinated by AI, robotics, prosthetics, and web 3.0.\n");
     println!("When I'm not coding, I'm often traveling and exploring new places.");
     println!("Please feel free to check out my Github repository to see what I'm working on");
     println!("And don't hesitate to get in touch if you have any questions or just want to chat!");
