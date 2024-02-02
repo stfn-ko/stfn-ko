@@ -1,3 +1,5 @@
+![LinkedIn cover - 4](https://github.com/stfn-ko/stfn-ko/assets/85121881/3acbd156-2283-4aaf-bf97-296930b58300)
+
 <h1 align="center">
  stfn_ko
 </h1>
