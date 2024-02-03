@@ -1,5 +1,4 @@
-
-![li_cover_trans_4](https://github.com/stfn-ko/stfn-ko/assets/85121881/690594c2-5262-4d2d-911c-dd4f1495424b)
+![li_cover_trans_4](https://github.com/stfn-ko/stfn-ko/assets/85121881/1884838c-fff0-4241-a648-ab1fc0743db5)
 
 <br>
 <br>
